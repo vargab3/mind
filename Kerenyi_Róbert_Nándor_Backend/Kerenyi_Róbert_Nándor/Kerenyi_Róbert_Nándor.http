@@ -1,0 +1,6 @@
+@Kerenyi_Róbert_Nándor_HostAddress = http://localhost:5296
+
+GET {{Kerenyi_Róbert_Nándor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
