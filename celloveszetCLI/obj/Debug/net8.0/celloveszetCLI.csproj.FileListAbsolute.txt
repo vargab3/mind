@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.exe
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\lovesek.csv
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.deps.json
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.runtimeconfig.json
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.dll
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\bin\Debug\net8.0\celloveszetCLI.pdb
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.dll
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\refint\celloveszetCLI.dll
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.pdb
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\celloveszetCLI.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\celloveszetCLI\celloveszetCLI\obj\Debug\net8.0\ref\celloveszetCLI.dll
