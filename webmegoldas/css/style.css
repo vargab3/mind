@@ -1,0 +1,65 @@
+body {
+	font-family: Georgia;
+	height: 400px;
+	background-color: rgb(172, 220, 244);
+    background-image: radial-gradient(rgb(39, 77, 84), rgb(169, 184, 245));
+}
+
+#fejlec {
+	width: 100%;
+}
+
+#focim {
+	text-shadow: 5px 5px 10px rgb(31, 40, 120);
+}
+
+h3{
+	color: black;
+	text-shadow: 5px 5px 10px rgb(31, 40, 120);
+	font-variant: small-caps;
+	font-size: 2em;
+}
+
+.capa{
+	background-color: rgb(172, 220, 244);
+	border: 1px solid black;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.lablec {
+	background-color: rgb(172, 220, 244);
+}
+
+.lablec a {
+	color: black;
+	font-style: italic;
+	text-decoration: none;
+}
+
+.lablec a:hover {
+	text-transform: uppercase;
+}
+
+.navbar {
+	font-variant: small-caps;
+	font-size: 1.2em;
+	margin-left: 0;
+}
+
+.card {
+	width: 80%;
+	margin: auto;
+}
+
+p {
+	text-align: justify;
+}
+
+.table {
+	width: 50%;
+}
+
+#taplalek {
+	list-style-image: url(../img/capaikon.png);
+	margin-left: 50px;
+}
